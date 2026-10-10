@@ -120,15 +120,15 @@
     "changes": "Wikimedia thumbnail and proportional resize; JPEG quality 88. No cropping or subject alteration."
   },
   {
-    "file": "assets/dijual-musang.png",
-    "width": 424,
-    "height": 446,
-    "source": "User-provided attachment Image #1, 2026-10-10",
-    "title": "Foto pengguna untuk produk Dijual musang",
+    "file": "assets/bakwan-sayur.png",
+    "width": 636,
+    "height": 457,
+    "source": "User-provided attachment Image #3, 2026-10-10",
+    "title": "Foto bakwan sayur yang disediakan pengguna",
     "artist": "Tidak diberikan",
     "license": "Tidak diberikan; penggunaan diminta pengguna untuk website ini",
     "licenseUrl": null,
-    "description": "Orang berkacamata sedang tersenyum",
+    "description": "Bakwan sayur di atas piring dengan cabai hijau",
     "changes": "Copied user attachment; image pixels unchanged, framing through CSS."
   }
 ]

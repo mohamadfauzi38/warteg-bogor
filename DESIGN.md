@@ -1,5 +1,5 @@
 ---
-name: "Warteg Bogor"
+name: "Warteg Sherly Barokah Mampir"
 description: "Papan makan siang hangat untuk memilih menu dan menyusun pesanan."
 colors:
   cream: "#fff8ed"
@@ -147,7 +147,7 @@ components:
     textColor: "{colors.brown}"
 ---
 
-# Design System: Warteg Bogor
+# Design System: Warteg Sherly Barokah Mampir
 
 ## Overview
 

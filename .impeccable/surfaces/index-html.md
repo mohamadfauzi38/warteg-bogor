@@ -9,7 +9,7 @@ related_targets: ["styles.css","app.js","config.js"]
 
 Primary target: index.html. Related targets: styles.css, app.js, config.js. Mode: Persuade, with an Operate checkout embedded in the same page.
 
-The user approved the code-first Papan makan siang direction via the structured question tool after the native browser preview was unavailable. Warteg Bogor and demo business/menu data are confirmed. Actual contact information remains unset. This is a local, reusable static template; no publication requested.
+The user approved the code-first Papan makan siang direction via the structured question tool after the native browser preview was unavailable. Warteg Sherly Barokah Mampir and demo business/menu data are confirmed. Actual contact information remains unset. This is a local, reusable static template; no publication requested.
 
 ## Direction contract
 
@@ -17,7 +17,7 @@ THESIS: A recognizable neighborhood lunch board lets a visitor choose a real exa
 
 OWN-WORLD: Warm cream ground, burnt orange actions, dark-brown ink, upright condensed trade lettering, readable humanist body text, real rectangular food photography, and simple ruled lists. No glass, gradients, floating ornaments, fabricated ratings, or serif display default.
 
-STORY: Understand Warteg Bogor, see a meal and its price, browse eight example dishes, build an order, choose pickup or delivery, then prepare a WhatsApp request.
+STORY: Understand Warteg Sherly Barokah Mampir, see a meal and its price, browse eight example dishes, build an order, choose pickup or delivery, then prepare a WhatsApp request.
 
 FIRST VIEWPORT: Compact wordmark and navigation; two-line headline beside short supporting copy above a wide food photograph; a dark strip beneath it names the featured meal, price, and live add button. The beginning of menu choice follows. Mobile stacks the same reading order with visible actions and legible prices.
 

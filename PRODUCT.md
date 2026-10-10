@@ -1,4 +1,4 @@
-# Warteg Bogor
+# Warteg Sherly Barokah Mampir
 
 <!-- impeccable:product-schema 1 -->
 
@@ -27,13 +27,13 @@ Orders are arranged through WhatsApp. Delivery fees and availability are confirm
 - Responsive navigation, product search, category filters, cart quantities and removal, and persistent localStorage cart.
 - Checkout asks for a customer name, pickup or delivery, and a delivery address where appropriate.
 - One editable config.js contains business identity, products, prices, photos, contact details, benefit copy, and optional example testimonials.
-- The user approved Warteg Bogor and example data. Actual WhatsApp number, address, hours, and Instagram are unknown and must remain openly configurable. Do not direct orders to a invented phone number.
+- The user approved Warteg Sherly Barokah Mampir and example data. Actual WhatsApp number, address, hours, and Instagram are unknown and must remain openly configurable. Do not direct orders to a invented phone number.
 - Menu prices and testimonials are synthetic examples, visibly labeled. No unsupported halal, certification, customer rating, or performance claims.
 - All page sections requested by the user must be implemented. Testimonials are optional and clearly example content.
 
 ## Brand Commitments
 
-Name: Warteg Bogor. Indonesian copy with a friendly everyday voice. Main colors: warm cream, orange, and dark brown. The supplied screenshot is a reference for a clear local-food website with navigation, hero, benefits, and WhatsApp contact; its competitor logo and green palette are not adopted. The user explicitly requests research and a considered design without common AI-generated interface clichés.
+Name: Warteg Sherly Barokah Mampir. Indonesian copy with a friendly everyday voice. Main colors: warm cream, orange, and dark brown. The supplied screenshot is a reference for a clear local-food website with navigation, hero, benefits, and WhatsApp contact; its competitor logo and green palette are not adopted. The user explicitly requests research and a considered design without common AI-generated interface clichés.
 
 ## Evidence on Hand
 

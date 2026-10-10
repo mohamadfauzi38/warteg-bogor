@@ -73,7 +73,7 @@
     }
     $('meta[name="theme-color"]').content = config.theme?.cream || '#fff8ed';
     $$('[data-brand-name]').forEach(node => { node.textContent = (business.brandName || business.name).toUpperCase(); });
-    $$('[data-brand-city]').forEach(node => { node.textContent = business.city.toUpperCase(); });
+    $$('[data-brand-tagline]').forEach(node => { node.textContent = business.brandTagline || business.city; });
     $$('[data-brand-link]').forEach(node => { node.setAttribute('aria-label', `${business.name}, beranda`); });
     $$('[data-demo-only]').forEach(node => { node.hidden = !business.demoMode; });
     $('[data-hero-first]').textContent = business.hero.title[0] || business.name;

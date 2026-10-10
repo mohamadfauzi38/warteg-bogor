@@ -1,8 +1,9 @@
 /* Ubah data usaha, warna, dan daftar menu di file ini. Panduan lengkap: README.md. */
 window.WARTEG_CONFIG = {
   business: {
-    name: 'Warteg Bogor',
+    name: 'Warteg Sherly Barokah Mampir',
     brandName: 'Warteg',
+    brandTagline: 'Sherly Barokah Mampir',
     city: 'Bogor',
     region: 'Jawa Barat',
     demoMode: true,
@@ -24,7 +25,7 @@ window.WARTEG_CONFIG = {
       title: 'Tempat singgah\nuntuk makan sehari-hari.',
       paragraphs: [
         'Di sela pekerjaan, setelah perjalanan, atau saat ingin makan tanpa repot — kadang yang dicari hanya sepiring nasi dengan lauk yang akrab.',
-        'Itulah gagasan Warteg Bogor. Pilih paket nasi atau susun lauk sesuai selera, lalu tentukan mau diambil sendiri atau diantar. Sederhana, seperti makan sehari-hari seharusnya.'
+        'Itulah gagasan Warteg Sherly Barokah Mampir. Pilih paket nasi atau susun lauk sesuai selera, lalu tentukan mau diambil sendiri atau diantar. Sederhana, seperti makan sehari-hari seharusnya.'
       ],
       image: 'assets/nasi-campur-support.jpg',
       alt: 'Ilustrasi nasi campur dengan lauk ayam, tempe, sayur, dan sambal'
@@ -46,7 +47,7 @@ window.WARTEG_CONFIG = {
     { id: 'nasi-ikan', name: 'Nasi ikan goreng', category: 'Makanan', price: 23000, unit: 'paket', description: 'Nasi, ikan goreng, sayur, dan sambal.', image: 'assets/ikan-goreng.jpg', alt: 'Ilustrasi ikan goreng berbumbu kunyit', position: '50% 50%' },
     { id: 'sayur-lodeh', name: 'Sayur lodeh', category: 'Makanan', price: 6000, unit: 'porsi', description: 'Sayuran dengan kuah santan gurih.', image: 'assets/sayur-lodeh.jpg', alt: 'Ilustrasi sayur lodeh berkuah santan', position: '50% 50%' },
     { id: 'tempe-orek', name: 'Tempe orek', category: 'Makanan', price: 5000, unit: 'porsi', description: 'Tempe berbumbu kecap, teman nasi hangat.', image: 'assets/tempe-orek.jpg', alt: 'Ilustrasi tempe orek berbumbu kecap', position: '50% 60%' },
-    { id: 'bakwan', name: 'Dijual musang', category: 'Camilan', price: 3000, unit: 'buah', description: 'Produk contoh.', image: 'assets/dijual-musang.png', alt: 'Foto orang berkacamata sedang tersenyum', position: '50% 50%' },
+    { id: 'bakwan', name: 'Bakwan sayur', category: 'Camilan', price: 3000, unit: 'buah', description: 'Gorengan sayur untuk teman makan.', image: 'assets/bakwan-sayur.png', alt: 'Bakwan sayur di atas piring dengan cabai hijau', position: '50% 50%' },
     { id: 'es-teh', name: 'Es teh manis', category: 'Minuman', price: 5000, unit: 'gelas', description: 'Teh manis dengan es batu.', image: 'assets/es-teh.jpg', alt: 'Ilustrasi dua gelas es teh dengan es batu', position: '50% 50%' },
     { id: 'es-jeruk', name: 'Es jeruk', category: 'Minuman', price: 7000, unit: 'gelas', description: 'Minuman jeruk segar dengan es.', image: 'assets/es-jeruk.jpg', alt: 'Ilustrasi minuman jeruk untuk dibawa pulang', position: '50% 65%' }
   ],

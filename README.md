@@ -1,4 +1,4 @@
-# Template Warteg Bogor
+# Template Warteg Sherly Barokah Mampir
 
 Website HTML, CSS, dan JavaScript untuk UMKM makanan. Tidak membutuhkan framework, instalasi paket, akun, atau backend. Semua foto dan font sudah tersimpan secara lokal.
 
@@ -27,6 +27,7 @@ Semua data utama ada di **config.js**, dalam `window.WARTEG_CONFIG`.
 | --- | --- |
 | `business.name` | Nama lengkap usaha untuk judul, pesan, dan footer. |
 | `business.brandName` | Tulisan utama pada logo tipografi. |
+| `business.brandTagline` | Tulisan pendamping di bawah logo, misalnya Sherly Barokah Mampir. Kosong berarti memakai nama kota. |
 | `business.city`, `business.region` | Kota dan provinsi. |
 | `business.whatsapp` | Nomor WhatsApp asli, memakai kode negara, tanpa tanda tambah. Untuk Indonesia: `62` diikuti nomor tanpa `0` awal. Format `08...` juga dinormalisasi menjadi `628...`. |
 | `business.whatsappDisplay` | Nomor yang ditampilkan, boleh memakai spasi. Kosong berarti memakai nomor di atas. |
@@ -66,7 +67,7 @@ Daftar `products` berisi delapan menu contoh. Setiap menu mempunyai ID unik, nam
 
 Letakkan foto sendiri di `assets/`. Disarankan foto lebar sekitar 1600 px untuk hero dan sekitar 800 px untuk menu. Ukuran gambar menu dibuat seragam oleh CSS; `position` mengatur bagian foto yang dipertahankan. JPG atau WebP yang dikompres lebih ringan daripada foto langsung dari kamera. Isi `alt` dengan deskripsi hidangannya.
 
-Foto awal merupakan **ilustrasi**, bukan foto Warteg Bogor. Atribusi lengkap ada dalam **ASSETS.md** dan kredit foto yang bisa dibuka di footer. Semua lisensi gambar tetap harus dihormati. Jika mengganti foto, sesuaikan `assets/photo-credits.js` dengan sumber dan lisensi baru. Kredit untuk foto lama yang tidak dipakai akan otomatis disembunyikan. Jika memakai foto milik sendiri, boleh mengosongkan array kredit, setelah memastikan tidak ada foto Commons tersisa. Lisensi font ada dalam `assets/fonts/`.
+Foto awal merupakan **ilustrasi**, bukan foto Warteg Sherly Barokah Mampir. Atribusi lengkap ada dalam **ASSETS.md** dan kredit foto yang bisa dibuka di footer. Semua lisensi gambar tetap harus dihormati. Jika mengganti foto, sesuaikan `assets/photo-credits.js` dengan sumber dan lisensi baru. Kredit untuk foto lama yang tidak dipakai akan otomatis disembunyikan. Jika memakai foto milik sendiri, boleh mengosongkan array kredit, setelah memastikan tidak ada foto Commons tersisa. Lisensi font ada dalam `assets/fonts/`.
 
 ## Testimoni
 

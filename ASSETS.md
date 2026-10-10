@@ -1,6 +1,6 @@
-# Foto ilustrasi Warteg Bogor
+# Foto ilustrasi Warteg Sherly Barokah Mampir
 
-Foto makanan pada tabel di bawah berlisensi dari Wikimedia Commons untuk **ilustrasi menu contoh**. Foto ini bukan dokumentasi Warteg Bogor, masakan milik usaha ini, atau tempat usahanya. Identitas, harga, dan ketersediaan menu pada template tidak dibuktikan oleh foto ini.
+Foto makanan pada tabel di bawah berlisensi dari Wikimedia Commons untuk **ilustrasi menu contoh**. Foto ini bukan dokumentasi Warteg Sherly Barokah Mampir, masakan milik usaha ini, atau tempat usahanya. Identitas, harga, dan ketersediaan menu pada template tidak dibuktikan oleh foto ini.
 
 Foto sumber telah diperiksa secara visual. Gambar yang menampilkan merek restoran, papan nama tempat usaha, atau objek yang tidak sesuai telah ditolak. File JPEG disimpan secara lokal agar template tidak bergantung pada hotlink.
 
@@ -21,7 +21,7 @@ Foto sumber telah diperiksa secara visual. Gambar yang menampilkan merek restora
 
 ## Perubahan dan metadata
 
-`assets/dijual-musang.png` (424 × 446 piksel) berasal dari Image #1 yang disediakan pengguna pada 10 Oktober 2026. Foto ini dipakai untuk mengganti gambar produk yang semula bernama Bakwan sayur menjadi “Dijual musang”, sesuai permintaan pengguna. Pembuat dan lisensi asli tidak diberikan; gambar ini tidak diberi lisensi Wikimedia. Piksel gambar tetap sama dengan lampiran, dengan pemotongan tampilan melalui CSS. Foto bakwan lama tetap tersimpan beserta atribusinya, tetapi tidak dipakai pada menu saat ini.
+`assets/bakwan-sayur.png` (636 × 457 piksel) berasal dari Image #3 yang disediakan pengguna pada 10 Oktober 2026. Foto ini digunakan pada menu Bakwan sayur sesuai permintaan pengguna. Pembuat dan lisensi asli tidak diberikan; gambar ini tidak diberi lisensi Wikimedia. Piksel gambar tetap sama dengan lampiran, dengan pemotongan tampilan melalui CSS. Foto bakwan Commons tetap tersimpan beserta atribusinya, tetapi tidak dipakai pada menu saat ini.
 
 Diunduh dari layanan thumbnail Wikimedia Commons, lalu diperkecil secara proporsional dengan interpolasi bicubic dan disimpan sebagai JPEG kualitas 88. Tidak ada perubahan subjek, warna, atau penghapusan objek. Foto hero memiliki lebar 1600 piksel. Foto menu memiliki sisi terpanjang paling besar 800 piksel. Rasio foto asli dipertahankan; bingkai dan pemotongan tampilan dibuat oleh CSS.
 

@@ -56,13 +56,13 @@ svg { flex-shrink: 0; }
 
 .site-header { position: sticky; top: 0; z-index: 35; background: var(--cream); border-bottom: 1px solid var(--line); }
 .header-inner { min-height: 90px; display: flex; align-items: center; gap: 36px; }
-.wordmark { display: inline-flex; flex-direction: column; align-items: center; font-family: var(--font-display); font-size: 33px; font-weight: 700; line-height: .95; letter-spacing: -.01em; text-decoration: none; flex-shrink: 0; }
-.wordmark-place { margin-top: 5px; font-family: var(--font-body); font-size: 12px; font-weight: 600; letter-spacing: .28em; line-height: 1.4; padding-left: .28em; }
+.wordmark { display: inline-flex; flex-direction: column; align-items: center; width: 166px; min-width: 0; font-family: var(--font-display); font-size: 33px; font-weight: 700; line-height: .95; letter-spacing: -.01em; text-decoration: none; flex-shrink: 1; }
+.wordmark-place { width: 100%; margin-top: 5px; font-family: var(--font-body); font-size: 12px; font-weight: 600; letter-spacing: .06em; line-height: 1.4; text-align: center; }
 .main-nav { display: flex; gap: 30px; align-items: center; margin-left: auto; }
 .main-nav a { position: relative; text-decoration: none; padding-block: 12px; font-size: 16px; font-weight: 600; }
 .main-nav a::after { content: ''; position: absolute; left: 0; right: 0; bottom: 7px; height: 2px; background: var(--orange); transform: scaleX(0); transform-origin: left; transition: transform 180ms ease; }
 .main-nav a:hover::after, .main-nav a[aria-current]::after { transform: scaleX(1); }
-.header-actions { display: flex; gap: 12px; align-items: center; }
+.header-actions { display: flex; gap: 12px; align-items: center; flex-shrink: 0; }
 .button-header { padding: 11px 17px; min-height: 44px; font-size: 15px; white-space: nowrap; }
 .cart-count { display: grid; place-items: center; min-width: 20px; height: 20px; padding-inline: 4px; background: var(--cream); color: var(--orange); font-size: 12px; font-variant-numeric: tabular-nums; border-radius: 3px; }
 .nav-toggle { display: none; width: 44px; height: 44px; border: 1px solid var(--line); border-radius: 6px; background: transparent; color: var(--brown); align-items: center; justify-content: center; }
@@ -305,7 +305,7 @@ textarea { resize: vertical; }
   .container { width: calc(100% - 36px); }
   .section-space { padding-block: 54px; }
   .header-inner { min-height: 74px; gap: 12px; }
-  .wordmark { font-size: 27px; }
+  .wordmark { font-size: 27px; max-width: 142px; }
   .wordmark-place { font-size: 12px; }
   .header-actions { gap: 9px; }
   .button-header { min-height: 42px; font-size: 13px; padding: 10px 12px; gap: 7px; }
