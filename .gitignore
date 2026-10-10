@@ -1,0 +1,10 @@
+assets/.research/
+.playwright-cli/
+output/
+*.zip
+_site/
+.impeccable/*
+!.impeccable/design.json
+!.impeccable/surfaces/
+.impeccable/surfaces/*
+!.impeccable/surfaces/index-html.md

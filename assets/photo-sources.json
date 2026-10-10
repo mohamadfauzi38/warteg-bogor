@@ -1,0 +1,122 @@
+﻿[
+    {
+        "file":  "assets/nasi-rames-hero.jpg",
+        "width":  1600,
+        "height":  1067,
+        "source":  "https://commons.wikimedia.org/wiki/File:Nasi_Rames_2.jpg",
+        "title":  "File:Nasi Rames 2.jpg",
+        "artist":  "Pitchrigi",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0",
+        "description":  "Batavian Traditional Cuisine",
+        "changes":  "Wikimedia thumbnail and proportional resize; JPEG quality 88. No cropping or subject alteration."
+    },
+    {
+        "file":  "assets/ayam-goreng.jpg",
+        "width":  600,
+        "height":  800,
+        "source":  "https://commons.wikimedia.org/wiki/File:Ayam_Goreng_Kremes.jpg",
+        "title":  "File:Ayam Goreng Kremes.jpg",
+        "artist":  "Happywu",
+        "license":  "CC0",
+        "licenseUrl":  "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description":  "Seporsi ayam goreng kremes dan lalapan.",
+        "changes":  "Wikimedia thumbnail and proportional resize; JPEG quality 88. No cropping or subject alteration."
+    },
+    {
+        "file":  "assets/telur-balado.jpg",
+        "width":  800,
+        "height":  597,
+        "source":  "https://commons.wikimedia.org/wiki/File:Talua_balado.JPG",
+        "title":  "File:Talua balado.JPG",
+        "artist":  "D.W. Fisher-Freberg",
+        "license":  "CC BY-SA 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/3.0",
+        "description":  "Talua balado, a Minangkabau popular dish in Pekanbaru, Indonesia.",
+        "changes":  "Wikimedia thumbnail and proportional resize; JPEG quality 88. No cropping or subject alteration."
+    },
+    {
+        "file":  "assets/ikan-goreng.jpg",
+        "width":  800,
+        "height":  600,
+        "source":  "https://commons.wikimedia.org/wiki/File:Ikan_goreng_kunyit.JPG",
+        "title":  "File:Ikan goreng kunyit.JPG",
+        "artist":  "Taman Renyah",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0",
+        "description":  "Ikan goreng kunyit, cuisine of Bangka.",
+        "changes":  "Wikimedia thumbnail and proportional resize; JPEG quality 88. No cropping or subject alteration."
+    },
+    {
+        "file":  "assets/sayur-lodeh.jpg",
+        "width":  800,
+        "height":  600,
+        "source":  "https://commons.wikimedia.org/wiki/File:Sayur_lodeh.JPG",
+        "title":  "File:Sayur lodeh.JPG",
+        "artist":  "Midori",
+        "license":  "CC BY 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/3.0",
+        "description":  "Sayur Lodeh",
+        "changes":  "Wikimedia thumbnail and proportional resize; JPEG quality 88. No cropping or subject alteration."
+    },
+    {
+        "file":  "assets/tempe-orek.jpg",
+        "width":  450,
+        "height":  800,
+        "source":  "https://commons.wikimedia.org/wiki/File:Orek_Tempe_Rumahan.jpg",
+        "title":  "File:Orek Tempe Rumahan.jpg",
+        "artist":  "Aqilla Rahmi",
+        "license":  "CC BY 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by/4.0",
+        "description":  "Masakan rumah sederhana dengan tempe sebagai bahan utama dan memiliki cita rasa manis, gurih, dan pedas.",
+        "changes":  "Wikimedia thumbnail and proportional resize; JPEG quality 88. No cropping or subject alteration."
+    },
+    {
+        "file":  "assets/bakwan.jpg",
+        "width":  777,
+        "height":  800,
+        "source":  "https://commons.wikimedia.org/wiki/File:Bakwan.jpg",
+        "title":  "File:Bakwan.jpg",
+        "artist":  "Johan paduka",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0",
+        "description":  "iko adalah bakwan sayua",
+        "changes":  "Wikimedia thumbnail and proportional resize; JPEG quality 88. No cropping or subject alteration."
+    },
+    {
+        "file":  "assets/es-teh.jpg",
+        "width":  800,
+        "height":  800,
+        "source":  "https://commons.wikimedia.org/wiki/File:Es_teh_gelas_jumbo.jpg",
+        "title":  "File:Es teh gelas jumbo.jpg",
+        "artist":  "Gunarta",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0",
+        "description":  "Es teh gelas jumbo",
+        "changes":  "Wikimedia thumbnail and proportional resize; JPEG quality 88. No cropping or subject alteration."
+    },
+    {
+        "file":  "assets/es-jeruk.jpg",
+        "width":  450,
+        "height":  800,
+        "source":  "https://commons.wikimedia.org/wiki/File:Es_jeruk_peras.jpg",
+        "title":  "File:Es jeruk peras.jpg",
+        "artist":  "Happywu",
+        "license":  "CC BY-SA 4.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0",
+        "description":  "Jeruk murni yang dikasih air gula dan es batu",
+        "changes":  "Wikimedia thumbnail and proportional resize; JPEG quality 88. No cropping or subject alteration."
+    },
+    {
+        "file":  "assets/nasi-campur-support.jpg",
+        "width":  1200,
+        "height":  800,
+        "source":  "https://commons.wikimedia.org/wiki/File:Javanese_nasi_campur.JPG",
+        "title":  "File:Javanese nasi campur.JPG",
+        "artist":  "D.W. Fisher-Freberg",
+        "license":  "CC BY-SA 3.0",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/3.0",
+        "description":  "Javanese nasi campur, served with tempe goreng and honey-cooked chicken.",
+        "changes":  "Wikimedia thumbnail and proportional resize; JPEG quality 88. No cropping or subject alteration."
+    }
+]
