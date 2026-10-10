@@ -6,8 +6,8 @@ window.WARTEG_CONFIG = {
     city: 'Bogor',
     region: 'Jawa Barat',
     demoMode: true,
-    whatsapp: '', // Nomor asli, misalnya 628xxxxxxxxxx. Kosong = pratinjau pesanan tanpa penerima.
-    whatsappDisplay: '',
+    whatsapp: '6281517382018', // Format internasional untuk tautan WhatsApp.
+    whatsappDisplay: '0815 1738 2018',
     address: '',
     hours: 'Setiap hari, 07.00–21.00 WIB',
     instagram: '', // Username Instagram, tanpa @. Kosong = tampil “Akun belum tersedia”.
