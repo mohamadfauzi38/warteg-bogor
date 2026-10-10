@@ -130,3 +130,5 @@ Unggah `index.html`, `styles.css`, `config.js`, `app.js`, dan folder `assets/` d
 Workflow `.github/workflows/deploy-pages.yml` menerbitkan website saat branch `main` diperbarui. Pada pengaturan repository, **Settings → Pages → Source** harus memakai **GitHub Actions**. Workflow juga bisa dijalankan dari tab **Actions** melalui **Run workflow**.
 
 `.github/scripts/prepare-pages.mjs` menyiapkan hanya HTML, CSS, JavaScript, foto, font, dan lisensi aset untuk website. Dokumentasi dan bahan pemeriksaan tetap berada di repository; folder riset sementara tidak ikut diunggah. Mengedit `config.js` di GitHub lalu commit ke `main` akan memperbarui situs melalui workflow ini.
+
+Saat deployment, tautan `config.js`, `app.js`, dan `styles.css` diberi versi berdasarkan isi file. Setelah halaman dimuat ulang, browser mengambil konfigurasi yang sesuai dengan deployment terbaru, termasuk perubahan nomor WhatsApp.
