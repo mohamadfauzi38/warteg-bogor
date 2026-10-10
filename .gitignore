@@ -8,3 +8,7 @@ _site/
 !.impeccable/surfaces/
 .impeccable/surfaces/*
 !.impeccable/surfaces/index-html.md
+.env
+.env.*
+*.env
+*.env.*
